@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zirzirlove96/BlockChain-by-Making-TypeScript.git",
+  "author": "<zirzirlove96@github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js", 
+    "prestart": "tsc"
+  }
+}
